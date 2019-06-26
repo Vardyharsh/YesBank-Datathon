@@ -4,6 +4,6 @@ This Project is For Yes Bank Datathon, in which given data was visualised to hel
 **Contributors** <br /> 
 Anurag Rakesh Bandhu <br /> 
 Vinay Katare <br /> 
-Harshavaradhan Kumar<br /> 
+Harshavardhan Kumar<br /> 
 Bhaskar Singh
 
